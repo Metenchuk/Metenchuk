@@ -125,8 +125,8 @@ Server-first data fetching, URL-driven filters, OAuth sign-in, server-side order
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Fanchuk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=A855F7&count_private=true&cache_seconds=86400" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fanchuk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&langs_count=6&cache_seconds=86400" />
+<img height="165" src="https://streak-stats.demolab.com?user=Fanchuk&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=A855F7&fire=EC4899&currStreakLabel=6366F1" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fanchuk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&langs_count=6" />
 
 </div>
 
