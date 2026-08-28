@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:A855F7&height=200&section=header&text=Nazar%20Fanchuk&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=React%20Developer&descAlignY=55&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:A855F7&height=200&section=header&text=Nazar%20Metenchuk&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=React%20Developer&descAlignY=55&descSize=20" width="100%" />
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Fanchuk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-PROFILE)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Metenchuk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nazar-metenchuk)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:metenchuk.nazar@gmail.com)
 
 </div>
 
@@ -67,7 +67,7 @@ I work primarily with **React**, **Next.js** and **TypeScript** on the frontend,
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [Nexus](https://github.com/Fanchuk/Nexus-ai)
+### 🧠 [Nexus](https://github.com/Metenchuk/Nexus-ai)
 
 **AI canvas workspace** — every AI result becomes a card on an infinite board. Connect two cards and one feeds the other as context.
 
@@ -80,7 +80,7 @@ Streaming AI responses, typed model output with Zod, cited web search, document 
 </td>
 <td width="50%" valign="top">
 
-### 📋 [TaskFlow](https://github.com/Fanchuk/TaskFlow)
+### 📋 [TaskFlow](https://github.com/Metenchuk/TaskFlow)
 
 **Project management SaaS** — Kanban boards, AI task generation, real-time chat and Stripe billing.
 
@@ -95,7 +95,7 @@ JWT auth with session tracking, drag-and-drop board, live team chat with voice m
 <tr>
 <td width="50%" valign="top">
 
-### 🍔 [MealMover](https://github.com/Fanchuk/mealmover)
+### 🍔 [MealMover](https://github.com/Metenchuk/mealmover)
 
 **Food-delivery platform** — restaurant discovery, persistent cart, full checkout flow.
 
@@ -127,8 +127,8 @@ Server-first data fetching, URL-driven filters, OAuth sign-in, server-side order
 
 Open to opportunities and collaboration.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-PROFILE)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nazar-metenchuk)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:metenchuk.nazar@gmail.com)
 
 <br />
 
