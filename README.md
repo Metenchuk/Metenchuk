@@ -108,12 +108,13 @@ Server-first data fetching, URL-driven filters, OAuth sign-in, server-side order
 </td>
 <td width="50%" valign="top">
 
-<br /><br />
-<div align="center">
+### 🌐 [Portfolio](https://portfolio-nine-kappa-1jrn5zzf8u.vercel.app)
 
-*More projects coming soon.*
+**Personal portfolio site** — built with Next.js, Tailwind CSS and Framer Motion.
 
-</div>
+`Next.js` `Tailwind` `Framer Motion`
+
+**[Visit →](https://portfolio-nine-kappa-1jrn5zzf8u.vercel.app)**
 
 </td>
 </tr>
