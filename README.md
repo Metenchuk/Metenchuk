@@ -73,6 +73,8 @@ I work primarily with **React**, **Next.js** and **TypeScript** on the frontend,
 
 `Next.js 16` `React Flow` `Gemini` `Prisma`
 
+💡 **The Challenge:** Streaming AI responses and enforcing strict Zod typing on an infinite React Flow canvas, ensuring nodes pass context seamlessly to each other.
+
 Streaming AI responses, typed model output with Zod, cited web search, document Q&A, and an image studio.
 
 **[Live Demo →](https://nexus-ai-chi-orcin.vercel.app)**
@@ -85,6 +87,8 @@ Streaming AI responses, typed model output with Zod, cited web search, document 
 **Project management SaaS** — Kanban boards, AI task generation, real-time chat and Stripe billing.
 
 `React 19` `NestJS` `Socket.io` `Stripe`
+
+💡 **The Challenge:** Synchronizing Kanban drag-and-drop states in real-time across multiple clients via WebSockets while maintaining PostgreSQL as the single source of truth.
 
 JWT auth with session tracking, drag-and-drop board, live team chat with voice messages, file manager.
 
@@ -100,6 +104,8 @@ JWT auth with session tracking, drag-and-drop board, live team chat with voice m
 **Food-delivery platform** — restaurant discovery, persistent cart, full checkout flow.
 
 `Next.js 16` `RSC` `NextAuth` `Prisma`
+
+💡 **The Challenge:** Implementing a server-first architecture where complex filtering is driven entirely by URL parameters and cart totals are securely calculated on the server.
 
 Server-first data fetching, URL-driven filters, OAuth sign-in, server-side order totals.
 
