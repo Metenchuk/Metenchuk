@@ -16,7 +16,7 @@
 
 React / full-stack developer focused on building production-grade web applications, not UI demos.
 
-I work primarily with **React**, **Next.js** and **TypeScript** on the frontend, and **NestJS** with **PostgreSQL** on the backend. My projects ship with real databases, authentication, payments and AI integrations — the goal is always to mirror what a working product actually looks like end-to-end.
+I work primarily with **React**, **Next.js** and **TypeScript** on the frontend, and **NestJS** or **Express** with **PostgreSQL** on the backend. My projects ship with real databases, authentication, payments and AI integrations — the goal is always to mirror what a working product actually looks like end-to-end.
 
 - Currently building AI-powered interfaces with the Vercel AI SDK, Google Gemini and pgvector
 - Interested in server-first architectures, type safety from schema to form, and clean feature-based structure
@@ -43,7 +43,9 @@ I work primarily with **React**, **Next.js** and **TypeScript** on the frontend,
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
@@ -117,6 +119,23 @@ Server-first data fetching, geolocation-aware distance sorting, server-side orde
 </td>
 <td width="50%" valign="top">
 
+### 🎫 [TicketDesk](https://github.com/Metenchuk/supportdesk-ai)
+
+**Support ticketing platform** — a keyboard-first split-view workspace (Linear-style) with real-time agent collaboration.
+
+`React 19` `Express` `Drizzle` `PostgreSQL`
+
+💡 **The Challenge:** Building a URL-driven master-detail workspace — the selected ticket lives in the URL for shareable links, with optimistic status updates that keep the list and detail panes in sync through a single query cache, plus full keyboard navigation and a `Cmd+K` command palette.
+
+JWT auth with role guards, SLA breach tracking, automation rules, and dual-channel real-time collaboration over WebSockets.
+
+**[Live Demo →](https://supportdesk-ai-five.vercel.app)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🌐 [Portfolio](https://portfolio-nine-kappa-1jrn5zzf8u.vercel.app)
 
 **Personal portfolio site** — built with Next.js, Tailwind CSS and Framer Motion.
@@ -126,6 +145,7 @@ Server-first data fetching, geolocation-aware distance sorting, server-side orde
 **[Visit →](https://portfolio-nine-kappa-1jrn5zzf8u.vercel.app)**
 
 </td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
