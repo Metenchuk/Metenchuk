@@ -5,7 +5,7 @@
 <br />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nine-kappa-1jrn5zzf8u.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nazar-metenchuk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazar-metenchuk)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:metenchuk.nazar@gmail.com)
 
 </div>
@@ -16,11 +16,12 @@
 
 React / full-stack developer focused on building production-grade web applications, not UI demos.
 
-I work primarily with **React**, **Next.js** and **TypeScript** on the frontend, and **NestJS** or **Express** with **PostgreSQL** on the backend. My projects ship with real databases, authentication, payments and AI integrations — the goal is always to mirror what a working product actually looks like end-to-end.
+I work primarily with **React**, **Next.js** and **TypeScript** on the frontend, and **NestJS** or **Express** with **PostgreSQL** on the backend. Four apps shipped to production — built solo from DB schema to CI/CD, each with a real database, auth, payments and AI integrations.
 
-- Currently building AI-powered interfaces with the Vercel AI SDK, Google Gemini and pgvector
-- Interested in server-first architectures, type safety from schema to form, and clean feature-based structure
-- Open to React / Full-Stack opportunities
+- 🎓 Second-year Software Engineering student at Lviv Polytechnic
+- 🧠 Currently building AI interfaces with the Vercel AI SDK, Google Gemini and pgvector
+- 🏗️ Into server-first architectures and type safety from schema to form
+- 💼 **Open to Junior Frontend / Full-Stack roles — remote or Lviv**
 
 ---
 
@@ -78,6 +79,8 @@ I work primarily with **React**, **Next.js** and **TypeScript** on the frontend,
 
 `Next.js 16` `React Flow` `Gemini` `pgvector` `Prisma`
 
+**Streaming AI cards · pgvector RAG with page-level citations · canvas-to-PDF**
+
 💡 **The Challenge:** Building document Q&A with pgvector RAG — chunking and embedding documents, retrieving the closest chunks by cosine distance, while keeping page-level citations that scroll the preview to the exact page.
 
 Streaming AI responses, typed model output with Zod, cited web search, document RAG, an image studio, and canvas-to-PDF export.
@@ -92,6 +95,8 @@ Streaming AI responses, typed model output with Zod, cited web search, document 
 **Project management SaaS** — Kanban boards, AI task generation, project health scoring and Stripe billing.
 
 `React 19` `NestJS` `Prisma` `Stripe`
+
+**Kanban + List/Calendar/Timeline · Stripe subscriptions · real-time chat**
 
 💡 **The Challenge:** Designing a deterministic Project Health Score — a computed metric factoring in overdue tasks, progress velocity and workload balance to surface at-risk projects at a glance.
 
@@ -110,6 +115,8 @@ JWT auth with session tracking, drag-and-drop board, one-click project templates
 
 `Next.js 16` `RSC` `Pusher` `Prisma`
 
+**Server-rendered catalog · SQL filtering · live order tracking, no polling**
+
 💡 **The Challenge:** Live order tracking over Pusher channels — pushing courier progress to the client without polling, with a staged progress bar and an animated marker moving along the route on the map.
 
 Server-first data fetching, geolocation-aware distance sorting, server-side order totals, and server-validated promo codes.
@@ -125,6 +132,8 @@ Server-first data fetching, geolocation-aware distance sorting, server-side orde
 
 `React 19` `Express` `Drizzle` `PostgreSQL`
 
+**URL-driven split-view · optimistic UI · Cmd+K · WebSocket collaboration**
+
 💡 **The Challenge:** Building a URL-driven master-detail workspace — the selected ticket lives in the URL for shareable links, with optimistic status updates that keep the list and detail panes in sync through a single query cache, plus full keyboard navigation and a `Cmd+K` command palette.
 
 JWT auth with role guards, SLA breach tracking, automation rules, and dual-channel real-time collaboration over WebSockets.
@@ -132,20 +141,6 @@ JWT auth with role guards, SLA breach tracking, automation rules, and dual-chann
 **[Live Demo →](https://supportdesk-ai-five.vercel.app)**
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 [Portfolio](https://portfolio-nine-kappa-1jrn5zzf8u.vercel.app)
-
-**Personal portfolio site** — built with Next.js, Tailwind CSS and Framer Motion.
-
-`Next.js` `Tailwind` `Framer Motion`
-
-**[Visit →](https://portfolio-nine-kappa-1jrn5zzf8u.vercel.app)**
-
-</td>
-<td width="50%" valign="top"></td>
 </tr>
 </table>
 
@@ -157,7 +152,7 @@ JWT auth with role guards, SLA breach tracking, automation rules, and dual-chann
 
 Open to opportunities and collaboration.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nazar-metenchuk)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazar-metenchuk)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:metenchuk.nazar@gmail.com)
 
 <br />
